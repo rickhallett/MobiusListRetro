@@ -6,6 +6,7 @@
     <e p="C:\Users\rickh\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\rickh\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_MobiusList2.-681938125.00" t="ExcludeRecursive" />
     <e p="C:\Users\rickh\Documents\Code\MobiusList2" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
@@ -32,6 +33,7 @@
       </e>
       <e p="MobiusList2.csproj" t="IncludeRecursive" />
       <e p="MobiusList2.Data" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="bin" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
