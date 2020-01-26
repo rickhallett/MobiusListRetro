@@ -29,7 +29,7 @@ namespace MobiusList2
         {
             services.InstallServicesInAssembly(Configuration);
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-//            services.AddHttpsRedirection(options => { options.HttpsPort = 4434; });
+//            services.AddHttpsRedirection(options => { options.HttpsPort = 4434; }); /
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,7 +51,7 @@ namespace MobiusList2
                 ForwardedHeaders = ForwardedHeaders.All
             });
 
-            app.UseHttpsRedirection();
+//            app.UseHttpsRedirection();
             app.UseMvc();
         }
     }
