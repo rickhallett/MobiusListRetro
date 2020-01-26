@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rickh\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\rickh\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\rickh\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rickh\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_MobiusList2.-681938125.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rickh\Documents\Code\MobiusList2" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contracts" t="Include">
+        <e p="Request" t="Include">
+          <e p="CreateCategoryRequest.cs" t="Include" />
+          <e p="CreateProductRequest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="ApiRoutes.cs" t="Include" />
+        <e p="CategoryController.cs" t="Include" />
+        <e p="ProductController.cs" t="Include" />
+      </e>
+      <e p="global.json" t="Include" />
+      <e p="Installers" t="Include">
+        <e p="DbInstaller.cs" t="Include" />
+        <e p="IInstaller.cs" t="Include" />
+        <e p="InstallerExtensions.cs" t="Include" />
+        <e p="MvcInstaller.cs" t="Include" />
+      </e>
+      <e p="Mapping" t="Include">
+        <e p="MappingProfile.cs" t="Include" />
+      </e>
+      <e p="MobiusList2.csproj" t="IncludeRecursive" />
+      <e p="MobiusList2.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MobiusList2.Data.deps.json" t="Include" />
+              <e p="MobiusList2.Data.dll" t="Include" />
+              <e p="MobiusList2.Data.pdb" t="Include" />
+              <e p="MobiusList2.Data.runtimeconfig.dev.json" t="Include" />
+              <e p="MobiusList2.Data.runtimeconfig.json" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Configurations" t="Include">
+          <e p="CategoryConfiguration.cs" t="Include" />
+          <e p="ProductConfiguration.cs" t="Include" />
+        </e>
+        <e p="MobiusDbContext.cs" t="Include" />
+        <e p="MobiusList2.Data.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Category.cs" t="Include" />
+          <e p="Customer.cs" t="Include" />
+          <e p="CustomerAddress.cs" t="Include" />
+          <e p="Order.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MobiusList2.Data.assets.cache" t="Include" />
+              <e p="MobiusList2.Data.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="MobiusList2.Data.csprojAssemblyReference.cache" t="Include" />
+              <e p="MobiusList2.Data.dll" t="Include" />
+              <e p="MobiusList2.Data.pdb" t="Include" />
+            </e>
+          </e>
+          <e p="MobiusList2.Data.csproj.nuget.cache" t="Include" />
+          <e p="MobiusList2.Data.csproj.nuget.dgspec.json" t="Include" />
+          <e p="MobiusList2.Data.csproj.nuget.g.props" t="Include" />
+          <e p="MobiusList2.Data.csproj.nuget.g.targets" t="Include" />
+          <e p="project.assets.json" t="Include" />
+          <e p="project.packagespec.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="CategoryService.cs" t="Include" />
+          <e p="ICategoryService.cs" t="Include" />
+          <e p="IProductService.cs" t="Include" />
+          <e p="ProductService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="MobiusList2.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="CategoryResource.cs" t="Include" />
+        <e p="ProductResource.cs" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="IUriService.cs" t="Include" />
+        <e p="UriService.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+    </e>
+  </component>
+</project>
