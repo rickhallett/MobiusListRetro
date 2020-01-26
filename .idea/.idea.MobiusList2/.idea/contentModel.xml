@@ -21,7 +21,6 @@
         <e p="CategoryController.cs" t="Include" />
         <e p="ProductController.cs" t="Include" />
       </e>
-      <e p="global.json" t="Include" />
       <e p="Installers" t="Include">
         <e p="DbInstaller.cs" t="Include" />
         <e p="IInstaller.cs" t="Include" />
