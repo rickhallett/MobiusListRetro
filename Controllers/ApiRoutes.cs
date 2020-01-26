@@ -15,6 +15,7 @@
 
         public static class Categories
         {
+            //
             public const string Create = Base + "/category";
             public const string GetAll = Base + "/category";
         }
